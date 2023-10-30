@@ -1,0 +1,11 @@
+{
+  "name": "@zodilib/github-packages",
+  "version": "1.0.0",
+  "description": "Testing github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Abhishek",
+  "license": "ISC"
+}
