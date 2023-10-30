@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "Abhishek",
-  "license": "ISC"
+  "license": "ISC",
+
+  "publishConfig": {
+  "@zodilib:registry": "https://npm.pkg.github.com"
+  }
 }
